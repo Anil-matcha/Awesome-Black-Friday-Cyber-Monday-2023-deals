@@ -119,6 +119,7 @@ Don't forget to:
 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | Connect with a private community of entrepreneurs to seek advice on building your own business. Stay accountable and receive guidance to start and scale your business. The link is already discounted 75% and valid until Cyber Monday. |
 | [SponsorLeads](https://getsponsorleads.com/#pricing) | Access a daily updated Airtable base featuring companies actively advertising in other newsletters. Find new sponsors for your newsletter. Enjoy daily decreasing discounts until Christmas. |
 | [Assembly](https://assembly.marketing) | Simplify your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals via Slack, and analyze post analytics across social channels. Supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023**. |
+| [BoilerCode](https://www.boilercode.co?ref=anil-matcha) | BoilerCode is a catalog of SaaS boilerplates to help you ship your next product super fast. Currently, BoilerCode has Boilerplates for NextJs SaaS, React, and Chrome Extension. | 50% OFF on all plans. Coupon Code: **50FRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
