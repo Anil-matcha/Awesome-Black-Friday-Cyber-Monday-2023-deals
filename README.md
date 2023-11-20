@@ -58,6 +58,8 @@ Don't forget to:
 | [Veshort](https://veshort.com) | Veshort is a URL shortener designed to help businesses create more reliable and traceable marketing links for targeted marketing. It also offers features like bio pages, QR codes, call-to-action overlays, and more. | Grab the [Lifetime Deal for $49](https://veshort.com/deal/lifetime) |
 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | Get a step-by-step blueprint for achieving top rankings on Product Hunt. Receive a list of 125 proven launch tasks, 63 post templates, and access to 99 communities to share your Product Hunt launch. | Enjoy a 50% discount with coupon code **BF50** |
 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention, and marketing automation platform that allows you to send real-time notifications to your website users on both mobile and desktop, without requiring a mobile app. | [Receive $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
+| [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code **`HOLIDAY2023`** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
