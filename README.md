@@ -91,6 +91,8 @@ Don't forget to:
 | [GSCTool.com](https://www.gsctool.com/) | Simplify the management of your search console account with a Chrome extension that supports Google Search Console, Bing Webmaster Tools, and Yandex. Perform tasks like bulk URL removals, indexing, and inspections. | Get 25% OFF with code **BLACKFRIDAY2023** |
 | [StatusPal](https://www.statuspal.io) | Effectively communicate about incidents and maintenance with a beautifully designed Status Page. Utilize powerful automations and APIs to focus on solving issues rather than communicating. | Enjoy a 30% OFF discount for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 | [BoloForms Signature](https://boloforms.com/signature) | Simplify the process of taking digital signatures in PDFs and forms using BoloForms Signature. A cost-effective alternative to Docusign. | Get 20% OFF with code **`20BOLOBFCM`** |
+| [Shipixen](https://shipixen.com?ref=black_friday_deals_by_anil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** (Valid till 26th Nov) | 
+
 
 [⬆️ Go to Top](#table-of-contents)
 
