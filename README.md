@@ -28,6 +28,8 @@ Don't forget to:
 | [BoltAI](https://boltai.com) | BoltAI is a native ChatGPT app for Mac, designed to enhance productivity across various professions. Integrate AI assistance into your daily tasks. | Save 53% with discount code **`AWESOMEBF2023`** |
 | [ChatHub](https://chathub.gg/?utm_source) | ChatHub is your all-in-one AI chatbot client, allowing you to chat with multiple chatbots like ChatGPT, Bing, Bard, Claude, and more simultaneously. Buy once, use forever. | Enjoy 30% off with discount code **`BLACKFRIDAY2023`** |
 | [Beam](https://getbeam.ai) | Beam provides a launcher-like native macOS experience, allowing you to work seamlessly with ChatGPT on your Mac. Say goodbye to context switching! | Get 70% OFF with code **`BLACKFRIDAY23`** |
+| [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_anil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -58,6 +60,8 @@ Don't forget to:
 | [Veshort](https://veshort.com) | Veshort is a URL shortener designed to help businesses create more reliable and traceable marketing links for targeted marketing. It also offers features like bio pages, QR codes, call-to-action overlays, and more. | Grab the [Lifetime Deal for $49](https://veshort.com/deal/lifetime) |
 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | Get a step-by-step blueprint for achieving top rankings on Product Hunt. Receive a list of 125 proven launch tasks, 63 post templates, and access to 99 communities to share your Product Hunt launch. | Enjoy a 50% discount with coupon code **BF50** |
 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention, and marketing automation platform that allows you to send real-time notifications to your website users on both mobile and desktop, without requiring a mobile app. | [Receive $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
+| [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code **`HOLIDAY2023`** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -119,6 +123,8 @@ Don't forget to:
 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | Connect with a private community of entrepreneurs to seek advice on building your own business. Stay accountable and receive guidance to start and scale your business. The link is already discounted 75% and valid until Cyber Monday. |
 | [SponsorLeads](https://getsponsorleads.com/#pricing) | Access a daily updated Airtable base featuring companies actively advertising in other newsletters. Find new sponsors for your newsletter. Enjoy daily decreasing discounts until Christmas. |
 | [Assembly](https://assembly.marketing) | Simplify your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals via Slack, and analyze post analytics across social channels. Supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023**. |
+| [BoilerCode](https://www.boilercode.co?ref=anil-matcha) | BoilerCode is a catalog of SaaS boilerplates to help you ship your next product super fast. Currently, BoilerCode has Boilerplates for NextJs SaaS, React, and Chrome Extension. | 50% OFF on all plans. Coupon Code: **50FRIDAY** |
+| [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_anil) | Intuitive Habit tracker with interactive widgets. | 50% OFF on HabitLoop Pro (Lifetime) - Valid till 28th Nov |
 
 [⬆️ Go to Top](#table-of-contents)
 
