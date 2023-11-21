@@ -28,6 +28,7 @@ Don't forget to:
 | [BoltAI](https://boltai.com) | BoltAI is a native ChatGPT app for Mac, designed to enhance productivity across various professions. Integrate AI assistance into your daily tasks. | Save 53% with discount code **`AWESOMEBF2023`** |
 | [ChatHub](https://chathub.gg/?utm_source) | ChatHub is your all-in-one AI chatbot client, allowing you to chat with multiple chatbots like ChatGPT, Bing, Bard, Claude, and more simultaneously. Buy once, use forever. | Enjoy 30% off with discount code **`BLACKFRIDAY2023`** |
 | [Beam](https://getbeam.ai) | Beam provides a launcher-like native macOS experience, allowing you to work seamlessly with ChatGPT on your Mac. Say goodbye to context switching! | Get 70% OFF with code **`BLACKFRIDAY23`** |
+| [Plus AI](https://noteifyapp.com/plus-ai/) | Plus AI:Your AI text assistant. Write efficiently with Plus! This AI assistant will free you from routine, speeding up the creation of emails, presentations, and other texts. | Get 40% OFF with code **`MACPLUSBLACKFRIDAY2023`**  [GET IT](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -118,7 +119,14 @@ Don't forget to:
 | [Small Bets Community](https://smallbets.co) | Join an online community for solopreneurs offering live classes from domain experts and a support network to help you achieve your first small wins. With over 3,800+ members, enjoy a 50% lifetime membership discount, automatically applied. |
 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | Connect with a private community of entrepreneurs to seek advice on building your own business. Stay accountable and receive guidance to start and scale your business. The link is already discounted 75% and valid until Cyber Monday. |
 | [SponsorLeads](https://getsponsorleads.com/#pricing) | Access a daily updated Airtable base featuring companies actively advertising in other newsletters. Find new sponsors for your newsletter. Enjoy daily decreasing discounts until Christmas. |
-| [Assembly](https://assembly.marketing) | Simplify your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals via Slack, and analyze post analytics across social channels. Supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023**. |
+| [Assembly](https://assembly.marketing) | Simplify your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals via Slack, and analyze post analytics across social channels. Supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023**.|
+| [DockView](https://noteifyapp.com/dockview/) | Enhance your Mac experience with live window previews in the Dock for easy application management. 40% OFF https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023|
+| [ActiveDock](https://noteifyapp.com/activedock/) | Customizable Dock for Mac. 40% OFF https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023|
+| [Plus AI](https://noteifyapp.com/plus-ai/) | Your AI text assistant. 40% OFF https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023 |
+| [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) | Keyboard-centric application and window switcher for your Mac. https://sites.fastspring.com/noteifyapp/product/commandtabplus2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023 |
+| [Tab Finder](https://noteifyapp.com/tab-finder/) | A list of all your open tabs across all browser windows in one place. https://sites.fastspring.com/noteifyapp/product/tabfinder?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023 |
+| [Quick Exposé](https://noteifyapp.com/quick-expose/) | Enhancing macOS Navigation Using Mission Control. https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023 |
+| [Stage View](https://noteifyapp.com/stage-view/) | Stage View for macOS Ventura Stage Manager. http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
