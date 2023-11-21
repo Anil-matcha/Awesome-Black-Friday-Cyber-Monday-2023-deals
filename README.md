@@ -28,6 +28,8 @@ Don't forget to:
 | [BoltAI](https://boltai.com) | BoltAI is a native ChatGPT app for Mac, designed to enhance productivity across various professions. Integrate AI assistance into your daily tasks. | Save 53% with discount code **`AWESOMEBF2023`** |
 | [ChatHub](https://chathub.gg/?utm_source) | ChatHub is your all-in-one AI chatbot client, allowing you to chat with multiple chatbots like ChatGPT, Bing, Bard, Claude, and more simultaneously. Buy once, use forever. | Enjoy 30% off with discount code **`BLACKFRIDAY2023`** |
 | [Beam](https://getbeam.ai) | Beam provides a launcher-like native macOS experience, allowing you to work seamlessly with ChatGPT on your Mac. Say goodbye to context switching! | Get 70% OFF with code **`BLACKFRIDAY23`** |
+| [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_anil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -122,6 +124,7 @@ Don't forget to:
 | [SponsorLeads](https://getsponsorleads.com/#pricing) | Access a daily updated Airtable base featuring companies actively advertising in other newsletters. Find new sponsors for your newsletter. Enjoy daily decreasing discounts until Christmas. |
 | [Assembly](https://assembly.marketing) | Simplify your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals via Slack, and analyze post analytics across social channels. Supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023**. |
 | [BoilerCode](https://www.boilercode.co?ref=anil-matcha) | BoilerCode is a catalog of SaaS boilerplates to help you ship your next product super fast. Currently, BoilerCode has Boilerplates for NextJs SaaS, React, and Chrome Extension. | 50% OFF on all plans. Coupon Code: **50FRIDAY** |
+| [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_anil) | Intuitive Habit tracker with interactive widgets. | 50% OFF on HabitLoop Pro (Lifetime) - Valid till 28th Nov |
 
 [⬆️ Go to Top](#table-of-contents)
 
