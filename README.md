@@ -31,7 +31,7 @@ Don't forget to:
 | [ChatHub](https://chathub.gg/?utm_source) | ChatHub is your all-in-one AI chatbot client, allowing you to chat with multiple chatbots like ChatGPT, Bing, Bard, Claude, and more simultaneously. Buy once, use forever. | Enjoy 30% off with discount code **`BLACKFRIDAY2023`** |
 | [Beam](https://getbeam.ai) | Beam provides a launcher-like native macOS experience, allowing you to work seamlessly with ChatGPT on your Mac. Say goodbye to context switching! | Get 70% OFF with code **`BLACKFRIDAY23`** |
 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_anil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov) |
-
+| [Elephas](https://elephas.app/?ref=black_friday_deals_by_anil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -95,7 +95,7 @@ Don't forget to:
 | [StatusPal](https://www.statuspal.io) | Effectively communicate about incidents and maintenance with a beautifully designed Status Page. Utilize powerful automations and APIs to focus on solving issues rather than communicating. | Enjoy a 30% OFF discount for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 | [BoloForms Signature](https://boloforms.com/signature) | Simplify the process of taking digital signatures in PDFs and forms using BoloForms Signature. A cost-effective alternative to Docusign. | Get 20% OFF with code **`20BOLOBFCM`** |
 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_anil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** (Valid till 26th Nov) | 
-
+| [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_anil) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages (Valid till 31st Dec, 2023) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -130,6 +130,8 @@ Don't forget to:
 | [Assembly](https://assembly.marketing) | Simplify your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals via Slack, and analyze post analytics across social channels. Supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023**. |
 | [BoilerCode](https://www.boilercode.co?ref=anil-matcha) | BoilerCode is a catalog of SaaS boilerplates to help you ship your next product super fast. Currently, BoilerCode has Boilerplates for NextJs SaaS, React, and Chrome Extension. | 50% OFF on all plans. Coupon Code: **50FRIDAY** |
 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_anil) | Intuitive Habit tracker with interactive widgets. | 50% OFF on HabitLoop Pro (Lifetime) - Valid till 28th Nov |
+| [Indie Masterminds](https://indiemasterminds.com/?ref=black_friday_deals_by_anil) | Tight knit community of indie founders. Private slack with 90+ members, premium courses, sprints and more. | 20% off on lifetime or annual plan with the code **`BFCM23`** (Valid till 27th Nov, 2023) |
+| [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_anil) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** (Valid till 27th Nov, 2023) |
 
 [⬆️ Go to Top](#table-of-contents)
 
