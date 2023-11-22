@@ -24,6 +24,8 @@ Don't forget to:
 
 | Name | Description | Discount Code & Terms |
 | ---| ------ | ------ |
+| [Writers brew](https://writersbrew.app) | An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts| 40% off - Discount auto-applied |
+| [Audio writer](https://audiowriter.app) | Your Thoughts. Our Words. It's Magic ✨ | 50% off - LTD Discount auto-applied |
 | [EmbedAI](https://thesamur.ai) | EmbedAI is a platform that enables users to create AI chatbots powered by ChatGPT using their data. | Use **BF23** to get 30% off for all plans |
 | [BoltAI](https://boltai.com) | BoltAI is a native ChatGPT app for Mac, designed to enhance productivity across various professions. Integrate AI assistance into your daily tasks. | Save 53% with discount code **`AWESOMEBF2023`** |
 | [ChatHub](https://chathub.gg/?utm_source) | ChatHub is your all-in-one AI chatbot client, allowing you to chat with multiple chatbots like ChatGPT, Bing, Bard, Claude, and more simultaneously. Buy once, use forever. | Enjoy 30% off with discount code **`BLACKFRIDAY2023`** |
