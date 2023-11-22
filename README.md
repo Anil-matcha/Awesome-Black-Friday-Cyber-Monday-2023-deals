@@ -44,6 +44,7 @@ Don't forget to:
 | [SMBImg](https://smbimg.com) | Capture screenshots, apply unique backgrounds, and customize watermarks with SMBImg. It offers features such as rounded corners, shadows, predefined image sizes, zooming, and custom offsets. Export your images to webp, jpeg, png, and gif formats. | Get 40% off for the first year using code **BF2023** |
 | [snappify](https://snappify.com) | Create impressive code presentations with smooth animations and export them as videos using snappify. Whether it's for social media content, explanatory videos, or technical slides, snappify has you covered! | Enjoy a 30% discount for the first year with code **BLACKFRIDAY_2023** |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | ResizeGenius is a macOS app designed for effortless batch resizing and editing of images. This powerful yet user-friendly application streamlines your image processing tasks, allowing you to resize multiple images at once while maintaining your preferred settings, just like following a resizing recipe. | Get a 50% discount using code **BLACKFRIDAY2023** |
+| [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF on all licenses with discount code **`BLACKFRIDAY2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
