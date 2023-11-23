@@ -32,6 +32,8 @@ Don't forget to:
 | [Beam](https://getbeam.ai) | Beam provides a launcher-like native macOS experience, allowing you to work seamlessly with ChatGPT on your Mac. Say goodbye to context switching! | Get 70% OFF with code **`BLACKFRIDAY23`** |
 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_anil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov) |
 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_anil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023) |
+| [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_anil) | Create or Remake AI Generated Content to be Undetectable. | Code: **`BlackFriday`**, 90% off first month (Valid till 27th Nov, 2023) |
+| [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_anil) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** (Valid till 27th Nov, 2023) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -64,7 +66,7 @@ Don't forget to:
 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | Get a step-by-step blueprint for achieving top rankings on Product Hunt. Receive a list of 125 proven launch tasks, 63 post templates, and access to 99 communities to share your Product Hunt launch. | Enjoy a 50% discount with coupon code **BF50** |
 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention, and marketing automation platform that allows you to send real-time notifications to your website users on both mobile and desktop, without requiring a mobile app. | [Receive $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code **`HOLIDAY2023`** |
-
+| [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_anil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more. | Enjoy a 50% discount. No code needed, the discount auto-applies at checkout. (Valid till 28th Nov, 2023) |
 
 [⬆️ Go to Top](#table-of-contents)
 
