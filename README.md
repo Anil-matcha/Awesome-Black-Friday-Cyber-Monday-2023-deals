@@ -96,6 +96,7 @@ Don't forget to:
 | [BoloForms Signature](https://boloforms.com/signature) | Simplify the process of taking digital signatures in PDFs and forms using BoloForms Signature. A cost-effective alternative to Docusign. | Get 20% OFF with code **`20BOLOBFCM`** |
 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_anil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** (Valid till 26th Nov) | 
 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_anil) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages (Valid till 31st Dec, 2023) |
+| [Jiffy.so](https://jiffy.so/) | Create Notion-Powered Websites With Notion As A Cms, Build Seo-Optimized, Visually Stunning Websites And Landing Pages, Knowledge Bases, Help Docs, Release Notes, Blogs, And More – All With No-Code In A Jiffy! | Use Code **BF50OFF** to get 50% off on a lifetime deal and also on a yearly plan. (Valid till 30th Nov, 2023) | 
 
 [⬆️ Go to Top](#table-of-contents)
 
