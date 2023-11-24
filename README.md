@@ -113,6 +113,7 @@ Don't forget to:
 | [Hypefury](https://hypefury.com/) | Get inspired for your next viral post, bulk-write and schedule your content, and increase engagement on auto-pilot. Use code **BLACKFRIDAY2023PR** for 35% off the One year Premium plan or **BLACKFRIDAY2023ST** for 30% off the One year Standard plan. |
 | [WritePanda](https://writepanda.ai/) | Repurpose your YouTube/podcast content by automatically creating blogs, newsletters, tweets, and captioned short clips for Instagram, YouTube, and TikTok. Enjoy a 40% OFF discount with coupon code **UWODA2NG**. |
 | [Assembly](https://assembly.marketing) | Streamline your social workflow with end-to-end tooling. Draft posts with a Notion-like editor, manage approvals with Slack, and analyze post analytics across every social channel. Also supports bulk uploading and scheduling via CSV. Save 50% for 3 months with code **BLACKFRIDAY2023** |
+| [Tweetsmash](https://tweetsmash.com)|𝕏 bookmarks and list companion for knowledge extraction. Chat with your bookmarks using AI; streamline your reading with email digests; export bookmarks effortlessly to Notion and Sheets; and efficiently search, curate, and organise your Twitter / 𝕏 content. | Enjoy a 40% OFF discount with coupon code **BLACKFRIDAY2023**.|
 
 [⬆️ Go to Top](#table-of-contents)
 
