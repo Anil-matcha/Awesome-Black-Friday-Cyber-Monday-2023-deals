@@ -24,6 +24,7 @@ Don't forget to:
 
 | Name | Description | Discount Code & Terms |
 | ---| ------ | ------ |
+| [10LevelUp](https://10levelup.com/) | Automatically cut viral clips out of your YouTube videos. Perfect to grow your Channel | 30% off the Essential & Pro yearly plan **BLACKWEEK** (Expires 9th of december) |
 | [Writers brew](https://writersbrew.app) | An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts| 40% off - Discount auto-applied |
 | [Audio writer](https://audiowriter.app) | Your Thoughts. Our Words. It's Magic ✨ | 50% off - LTD Discount auto-applied |
 | [EmbedAI](https://thesamur.ai) | EmbedAI is a platform that enables users to create AI chatbots powered by ChatGPT using their data. | Use **BF23** to get 30% off for all plans |
